@@ -1,3 +1,5 @@
+<i>THIS IS A SPECIAL EDITION RELEASE</i>
+
 What is Notepad++ ?
 ===================
 
